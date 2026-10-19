@@ -43,4 +43,4 @@ Object-oriented **Java** CLI applications demonstrating clean separation of conc
 ## 🤝 Connect with Me
 
 [![Email](https://img.shields.io/badge/-zysonedit@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:zysonedit@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Mohamed_Aziz_Hamdi-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohamed-aziz-hamdi-627a6a397)
+[![LinkedIn](https://img.shields.io/badge/-Mohamed_Aziz_Hamdi-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohamed-aziz-hamdi-dev)
